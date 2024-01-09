@@ -62,7 +62,7 @@ main, .header-1 {
 .head-1 {
     text-align: center;
     color: #F00;
-    font-size: 70px;
+    font-size: 40px;
     font-weight: 700;
     margin: 20px;
     padding: 10px;
@@ -72,7 +72,7 @@ main, .header-1 {
 .title-11 {
     text-align: center;
     color: #F00;
-    font-size: 18px;
+    font-size: 10px;
     font-weight: 500;
     margin: 10px;
     padding: 0px;
@@ -81,7 +81,7 @@ main, .header-1 {
 .catagory {
     text-align: center;
     color: #070211;
-    font-size: 35px;
+    font-size: 18px;
     font-weight: 700;
     margin: 0px;
     padding: 0px;
@@ -122,11 +122,12 @@ main, .header-1 {
 .head-2 {
     color: #FFF;
     font-family: Merriweather;
-    font-size: 64px;
+    font-size: 50px;
 
 }
 
 .description-2 {
+    width: 600px;
     color: rgba(255, 255, 255, 0.60);
     font-family: Inter;
     font-size: 18px;
@@ -166,11 +167,12 @@ main, .header-1 {
 }
 
 .all-address-3 {
-    padding: 100px 386px 100px 386px;
+    padding: 100px 386px 100px 286px;
+    width: 500px;
     color: #070211;
-    font-size: 28px;
+    font-size: 24px;
     font-weight: 600;
-    line-height: 56px;
+    line-height: 40px;
     text-align: center;
 }
 
@@ -224,8 +226,8 @@ main, .header-1 {
     display: flex;
 }
 .img{
-    width: 500px;
-    height: 400px;
+    width: 352px;
+    height: 355px;
     padding-right: 25px;
     padding-bottom: 25px;
 }
